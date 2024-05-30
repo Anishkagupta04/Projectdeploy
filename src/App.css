@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0cbeb;
+  /* margin-bottom: 80px; */
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
